@@ -1,0 +1,24 @@
+.container{
+    width: 400px;
+    height: 450px;
+    background-color: grey;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+#t{
+    width: 280px;
+    height: 45px;
+    margin-left: 55px;
+    margin-top: 40px;
+    border-radius: 15px;
+    box-shadow:  0 0 20px;
+}
+button{
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 45px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(143, 125, 125);
+    box-shadow:   0 0 5px;
+}
